@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit of futuristic calendar"
+git remote add origin https://github.com/Toast225futuristic-calendar.git
+git branch -M main
+git push -u origin main
